@@ -1,6 +1,7 @@
 # AulasVC
-
+//
 Aula8 ->Processamento morfológico: operações em conjuntos e operações morfológicas básicas
+//
 Aula9->Processamento morfológico: algoritmos morfológicos
 Aula10->Processamento morfológico em escala de cinza
 Aula11->Segmentação: Introdução e métodos básicos
