@@ -8,3 +8,11 @@
 * Aula14->Segmentação: Gradientes (Adendo)
 * Aula15->Segmentação: Watershed
 * Aula16->Extração de Características: Forma, Dimensões e aspecto
+* Aula17->Extração de Características: Texturas
+* Aula18->Redução de dimensionalidade
+* Aula19->Reconhecimento de Padrões: Introdução 
+* Aula20->Classificadores Bayesianos
+* Aula21->Agrupamentos
+* Aula22->Redes Neurais Artificiais: Perceptron Simples 
+* Aula23->Redes Neurais Artificiais: Perceptron Multicamadas
+* Aula24->Validação
