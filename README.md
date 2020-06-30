@@ -1,7 +1,4 @@
 [![Contributors][contributors-shield]][https://github.com/AlexeiAS/AulasVC/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/AlexeiAS/AulasVC/network/members]
-[![Stargazers][stars-shield]][https://github.com/AlexeiAS/AulasVC/stargazers]
-
 
 *  Aula8 ->Processamento morfológico: operações em conjuntos e operações morfológicas básicas
 * Aula9->Processamento morfológico: algoritmos morfológicos
