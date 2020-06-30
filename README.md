@@ -2,7 +2,8 @@
 ![GitHub contributors](https://github.com/AlexeiAS/AulasVC/graphs/contributors)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?color=green)
 ![GitHub forks](https://img.shields.io/github/forks/AlexeiAS/AulasVC?logoColor=green&style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/AlexeiAS/AulasVC/graphs/contributors?color=green)
+![GitHub contributors][https://img.shields.io/github/contributors/AlexeiAS/AulasVC?color=green][https://github.com/AlexeiAS/AulasVC/graphs/contributors]
+
 
 *  Aula8 ->Processamento morfológico: operações em conjuntos e operações morfológicas básicas
 * Aula9->Processamento morfológico: algoritmos morfológicos
