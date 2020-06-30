@@ -30,3 +30,50 @@
 * Aula30->Generative Adversarial Networks 
 
 ### Explanação das Aulas
+#### Aula 8:
+* Estudo das operações morfológicas (dilatação,erosão,abertura e fechamento)  e sua aplicação no
+processamento de uma placa de carro.
+#### Aula9:
+* Estudo dos algoritimos morfológicos(extração de fronteiras, flood fill, componentes conectados,
+hit or miss e esqueletonização).
+
+#### Aula10:
+* Utilização do GIMP (software de edição de imagens) para entendimento do gradiente morfológico. 
+Estudo do processo de segmentação de textura para determinar regiões.
+
+#### Aula11:
+* Estudo do método de Otsu para limiarização e do método de Canny para segmentação pelas bordas.
+
+#### Aula12:
+* Implementação da transformada de Hough.
+
+#### Aula13:
+* Aplicação da transformada de Hough na detecção de uma pista de pouso para aviões.
+
+#### Aula14:
+* Aplicação do cálculo do gradiente pelo filtro de sobel para identificação de impressões digitais.
+
+#### Aula15:
+* Utilização do algoritimo de segmentação watershed (bacia hidrográfica)
+
+#### Aula16:
+* Utilização das funções de Canny,componentes conexas e cálculo da área de contorno para extração de características, 
+aplicação na detecção de moedas pelo tamanho.
+
+#### Aula17:
+* Criação da Matriz de Diferença de Tons de Cinza a partir de uma imagem, e histogramas para extração de texturas.
+
+#### Aula18:
+* Estudos da técnica de Análise de Componentes Principais(PCA) para redução de dimensionalidade.
+
+#### Aula19:
+* Implementação do K-NN algoritimo básico de aprendizagem de máquina e aplicação na predição de gatos e cachorros.
+
+#### Aula20:
+* Utilização do Classificador Bayesiano para predição de gatos e cachorros.
+*obs : Devido ,talvez,a versão do opencv utilizada, os módulos de inteligência artifical não estavam funcionando 
+assim nesse e nas próximas aulas análogas será utilizada a biblioteca sklearn no python.
+
+
+
+
