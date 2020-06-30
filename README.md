@@ -72,8 +72,38 @@ aplicação na detecção de moedas pelo tamanho.
 #### Aula20:
 * Utilização do Classificador Bayesiano para predição de gatos e cachorros.
 *obs : Devido ,talvez,a versão do opencv utilizada, os módulos de inteligência artifical não estavam funcionando 
-assim nesse e nas próximas aulas análogas será utilizada a biblioteca sklearn no python.
+assim nesse e nas próximas aulas análogas(22,23) será utilizada a biblioteca sklearn do python.
 
+#### Aula21:
+* Estudo do algoritimo clássico de agrupamento k-médias(k-means)
 
+#### Aula22:
+* Estudo de redes neurais artificais -> Perceptron Simples, método de separação linear
 
+#### Aula23:
+* Perceptron Multicamadas , utilização de várias retas (hiperplanos) para divisão das classes.
 
+#### Aula24:
+* Estudo do método de Validação Cruzada para analisar precisão de modelos.
+
+#### Aula25:
+* Estudo do Algoritimo de Lucas-Kanade o qual utiliza fluxo óptico para rastreamento de pontos.
+
+#### Aula26:
+* obs: Como o exercício em questão se tratava de um tutorial do opencv porém em C++ e todas as aulas estão sendo 
+utilizadas em python foi realizado um estudo inicial das Redes Neurais Convolucionais utilizando a lib pytorch do python.
+*Introdução as RNC's , desenvolvendo um RCN simples para predição de dígitos no dataset MINIST.
+
+#### Aula27:
+* Detecção de faces utilizando o algoritimo de Viola Jones a partir de Haar Features.
+
+#### Aula28:
+*Compreensão teórica da obtenção de regiões dos algoritimos YOLO,faster RCNN  e SSD
+
+#### Aula29:
+* obs: Essa aula não foi executada devido a problemas de instalação do tensorflow , porém um tutorial semelhante é feito na aula 26 
+com pytorch.
+
+#### Aula30:
+* Estudo sobre Generative Adversarial Networks(redes adversárias generativas) a qual tem o objetivo de aperfeiçoar parâmtros para 
+reconhecimento de imagens partir de um gerador de imagens falsas.
