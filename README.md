@@ -1,4 +1,7 @@
-![Github All Contributors](https://img.shields.io/github/all-contributors/AlexeiAS/AulasVC)
+
+![GitHub contributors](https://img.shields.io/github/contributors/AlexeiAS/AulasVC?color=green)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?color=green)
+![GitHub forks](https://img.shields.io/github/forks/AlexeiAS/AulasVC?logoColor=green&style=social)
 
 
 *  Aula8 ->Processamento morfológico: operações em conjuntos e operações morfológicas básicas
