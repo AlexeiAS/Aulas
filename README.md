@@ -4,6 +4,7 @@
 
 
 ## Resolução de exercícios de Visão Computacional .
+### Alexei Alves de Souza
 
 * Aula8 ->Processamento morfológico: operações em conjuntos e operações morfológicas básicas
 * Aula9->Processamento morfológico: algoritmos morfológicos
