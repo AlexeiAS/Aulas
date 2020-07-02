@@ -97,7 +97,7 @@ assim nesse e nas próximas aulas análogas(22,23) será utilizada a biblioteca 
 * Detecção de faces utilizando o algoritimo de Viola Jones a partir de Haar Features.
 
 #### Aula28:
-*Compreensão teórica da obtenção de regiões dos algoritimos YOLO,faster RCNN  e SSD
+* Compreensão teórica da obtenção de regiões dos algoritimos YOLO,faster RCNN  e SSD
 
 #### Aula29:
 * Estudos sobre arquitetura de redes neurais, criação de uma rede simples em pytorch e aplicação no dataset MINIST para detecção 
