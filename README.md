@@ -91,9 +91,7 @@ assim nesse e nas próximas aulas análogas(22,23) será utilizada a biblioteca 
 * Estudo do Algoritimo de Lucas-Kanade o qual utiliza fluxo óptico para rastreamento de pontos.
 
 #### Aula26:
-* obs: Como o exercício em questão se tratava de um tutorial do opencv porém em C++ e todas as aulas estão sendo 
-utilizadas em python foi realizado um estudo inicial das Redes Neurais Convolucionais utilizando a lib pytorch do python.
-*Introdução as RNC's , desenvolvendo um RCN simples para predição de dígitos no dataset MINIST.
+* Estudo e tutorial de Redes Neurais Convolucionais utilizando a lib pytorch e o modelo alexnet para classificação de imagens.
 
 #### Aula27:
 * Detecção de faces utilizando o algoritimo de Viola Jones a partir de Haar Features.
