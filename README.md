@@ -100,9 +100,9 @@ assim nesse e nas próximas aulas análogas(22,23) será utilizada a biblioteca 
 *Compreensão teórica da obtenção de regiões dos algoritimos YOLO,faster RCNN  e SSD
 
 #### Aula29:
-* obs: Essa aula não foi executada devido a problemas de instalação do tensorflow , porém um tutorial semelhante é feito na aula 26 
-com pytorch.
-
+* Estudos sobre arquitetura de redes neurais, criação de uma rede simples em pytorch e aplicação no dataset MINIST para detecção 
+de dígitos. 
+* obs: Optei por usar o pytorch e não o keras/tensorflow devido a problemas com a instalação deste.
 #### Aula30:
 * Estudo sobre Generative Adversarial Networks(redes adversárias generativas) a qual tem o objetivo de aperfeiçoar parâmtros para 
 reconhecimento de imagens partir de um gerador de imagens falsas.
